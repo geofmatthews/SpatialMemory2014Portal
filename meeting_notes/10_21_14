@@ -1,0 +1,19 @@
+Lab Access in AIC 152
+
+Tasks needed to proceed with experiment:
+
+1.) Introduce audio instructions to the simulation based on the word document availabe in git. 
+
+2.) Find a way to get coordinates (x, y, possibly z) of actual and proposed (by subject) locations for objects. 
+
+3.) Implement some kind of confidence reading after each selection
+
+4.) Implement distractor task; needs to be 2 min. in duration.
+
+5.) Map space to a 2d image, no objects, empty room. Would be nice to get this mapping done after objects
+are placed with actual/proposed placements
+
+6.) Add some kind of texture to the walls for realism
+
+
+
